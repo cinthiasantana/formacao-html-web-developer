@@ -23,6 +23,8 @@ Para acessar e interagir com as atividades completas dos módulos, recomendo que
 
 - Módulo 1 - [Link Modulo 1](https://cinthiasantana.github.io/formacao-html-web-developer/Modulo1/)
 
+- <a href="https://cinthiasantana.github.io/formacao-html-web-developer/Modulo1/" target="_blank">Site</a>
+
 - Módulo 2 - [Link Modulo 2](https://cinthiasantana.github.io/formacao-html-web-developer/Modulo2/)
 
 - Módulo 3 - [Link Modulo 3](https://cinthiasantana.github.io/formacao-html-web-developer/Modulo3/)
